@@ -1,1 +1,1 @@
-console.log(Hola git desde js 2)
+console.log("Hola git desde js 2")
